@@ -4,9 +4,9 @@ Project title:
 What and Why:
     What: This is a system that allows the users to consult or checkin with their doctors online with their patient profile and appointment details entered. 
     It should allow check ups to be done and easier to reach specalists on the platform. 
-    
     Why: Covid makes it imperative that we have remote access to every service. Most visits to the doctor are from minor casues that can be done remotely.
     In addition, if the users are allowed to enter their concerns and symptoms beforehand, the meeting would be more efficient. 
+    
 
 For whom:
     Doctors and their patients. Especially patients who are elders or children who would have inconvenience traveling.
